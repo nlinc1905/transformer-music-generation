@@ -1,0 +1,10 @@
+grpcio==1.32.0
+music21==6.5.0
+numpy==1.19.5
+pandas==1.1.2
+six==1.15.0
+tensorboard==2.4.1
+tensorboard-plugin-wit==1.7.0
+tensorflow==2.4.1
+tensorflow-addons==0.11.2
+tensorflow-estimator==2.4.0
