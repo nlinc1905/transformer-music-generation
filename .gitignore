@@ -127,3 +127,17 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Pycharm
+.idea
+idea/
+
+# Data folders
+.maestro-v3.0.0-midi
+maestro-v3.0.0-midi/
+.clean
+clean/
+
+# Model weights
+.model_tracking
+model_tracking/
